@@ -1,4 +1,8 @@
 How should I do it?
-
-I analyzed the bootcamp requirements. I created a three-phase development plan. I designed the folder structure.
-
+Project Planning: I analyzed the bootcamp requirements. I created a three-phase development plan. I designed the folder structure.
+Basic Structure: Book class: The base class representing each book, Library class: The main class that manages books, JSON data storage: The file system for persistent data, Terminal application: The user interface.
+API Integration: Open Library API: Automatically retrieve book information from ISBN, Async/await: Asynchronous programming for parallel operations, Error handling: Handling network and API errors, Retry mechanism: Retrying failed requests.
+Web Service: FastAPI: Modern Python web framework, Pydantic: Data validation and serialization, REST API: CRUD operations, Swagger/ReDoc: Automatic API documentation.
+Test: pytest: Test framework, Unit tests: Tests for each class and method, Fixtures: Pre-test preparation and post-test cleanup.
+Okay, from now on, in order to perform the operations here, I need to create a working folder and do a simpler version of the operations here.
+Let's finish this project in the best way possible.
