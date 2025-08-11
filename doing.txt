@@ -1,0 +1,4 @@
+How should I do it?
+
+I analyzed the bootcamp requirements. I created a three-phase development plan. I designed the folder structure.
+
